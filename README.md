@@ -26,11 +26,10 @@ Insights & Findings
 - Customer preferences and buying behavior.
 - Recommendations based on data analysis.
 
-Tools Used
+*Tools Used*
 - Microsoft Excel
   - Formulas, Pivot Tables, Charts
   - Conditional Formatting
 
 
-**Hafeezullah Ehsan**  
-- GitHub: [Your GitHub Profile URL]  
+
